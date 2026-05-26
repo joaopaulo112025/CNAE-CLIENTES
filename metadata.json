@@ -1,0 +1,6 @@
+{
+  "name": "Validador e Consulta de CNPJ",
+  "description": "Busca automática de CNPJ e CNAEs em documentos PDF usando Inteligência Artificial e consultas integradas com geração de relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
